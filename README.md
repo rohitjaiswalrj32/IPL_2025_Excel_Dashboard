@@ -24,6 +24,21 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+Take a look at the final interactive Excel dashboard built using IPL 2025 data. The dashboard allows users to:
+
+- Instantly filter insights using slicers (Team, Player, Venue, Stage)
+- Visualize top-performing batsmen and bowlers
+- Analyze match outcomes and trends with bar, column, and pie charts
+- Gain quick, meaningful insights through a clean and user-friendly layout
+
+> 🎯 Designed for clarity, interactivity, and storytelling — built 100% in Excel.
+
+![Dashboard Screenshot](screenshots/Dashboard.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 - **Microsoft Excel**
   - Power Query for data cleaning
